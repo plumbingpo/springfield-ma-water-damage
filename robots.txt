@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://springfieldrestorationco.com/sitemap.xml
